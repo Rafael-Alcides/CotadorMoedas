@@ -3,7 +3,6 @@ import 'package:exemplo/pages/base_page.dart';
 import 'package:exemplo/pages/cotadas_page.dart';
 import 'package:exemplo/pages/resultado_page.dart';
 import 'package:exemplo/theme/colors.dart';
-import 'package:exemplo/widgets/page_container.dart';
 import 'package:flutter/material.dart';
 
 void main() {
